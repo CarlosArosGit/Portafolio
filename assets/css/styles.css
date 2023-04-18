@@ -1,0 +1,49 @@
+.imgProyectos{
+    height: 150px;
+    width: 150px;
+    background-repeat: no-repeat;
+    background-position: 50%;
+    border-radius: 50%;
+    background-size: 100% auto;
+}
+.marginB50{
+    margin-bottom: 50px;
+}
+.imgPerfil{
+    height: 250px;
+    width: 250px;
+    background-repeat: no-repeat;
+    background-position: 50%;
+    border-radius: 50%;
+    background-size: 100% auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+h1, h3, h2, p , a{
+    font-family: "Malgun Gothic";
+    color: white;
+}
+
+.cWhite{
+    color: white;
+}
+.mL10{
+    margin-left: 10px;
+}
+a{
+    text-decoration: none;
+}
+body{
+    background-color: #4F5051;
+}
+.cBlack{
+    color: black !important;
+}
+.cBlackCard{
+    color: black !important;
+    font-size: 20px;
+    font-weight: 700;
+}
+.card{
+    margin-bottom: 10px !important;
+}
